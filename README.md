@@ -8,6 +8,8 @@ Make sure to have:
 * Spring Boot CLI [installed](https://docs.spring.io/spring-boot/docs/current/reference/html/getting-started.html#getting-started.installing.cli) (make sure not to install version 3 or later, since the run command has been removed since 3.x)
 * Docker [installed](https://docs.docker.com/get-docker/)
 
+    ![Docker Host](https://github.com/sanogotech/connect-docker-host-from-docker-container-example/blob/main/dockerhost1.jpg)
+
 ## Blogpost
 
 Small codebase with blogpost: [How to connect to the Docker host from inside a Docker container?](https://medium.com/@TimvanBaarsen/how-to-connect-to-the-docker-host-from-inside-a-docker-container-112b4c71bc66)
