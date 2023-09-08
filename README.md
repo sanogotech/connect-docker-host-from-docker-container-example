@@ -20,9 +20,22 @@ Small codebase with blogpost: [How to connect to the Docker host from inside a D
   
 ## Run the most simple Spring Boot web application
 
+```java
+@RestController
+class SpringBootWebApplication {
+
+    @RequestMapping("/")
+    String hello() {
+        "Hello world container. You are able to reach the Docker host!\n"
+    }
+}
+```
+
 ```
 spring run helloWorld.groovy
 ```
+
+
 
 A Spring Boot application will start at port 8080 on your host: [http://localhost:8080](http://localhost:8080)
 
