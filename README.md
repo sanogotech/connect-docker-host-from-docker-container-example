@@ -12,6 +12,8 @@ Make sure to have:
 
 Small codebase with blogpost: [How to connect to the Docker host from inside a Docker container?](https://medium.com/@TimvanBaarsen/how-to-connect-to-the-docker-host-from-inside-a-docker-container-112b4c71bc66)
 
+- https://medium.com/@TimvanBaarsen/how-to-connect-to-the-docker-host-from-inside-a-docker-container-112b4c71bc66
+  
 ## Run the most simple Spring Boot web application
 
 ```
